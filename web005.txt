@@ -1,0 +1,23 @@
+<html>
+<frameset rows=20%,70%,*>
+<frame src="index01.html" name=1 > 
+<frameset cols=30%,*> 
+
+<frame src="index02.html" name=2>
+<frameset cols=30%,*>
+
+<frame src="web01.html" name=3>
+
+<frame src="index03.html" name =4>
+
+</frameset>
+</frameset>
+<frame  name=5>
+
+<noframe> 
+</noframe>
+         <body>
+         </body>
+
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

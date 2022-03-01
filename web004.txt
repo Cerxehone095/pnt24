@@ -1,0 +1,15 @@
+<head>
+
+<title> HONDAZ webpage
+</title>
+
+</head>
+
+<body bgcolor="1E90FF"> 
+<center>
+       <font size="6">web04 webpage</font>
+      <img src="0101.jpg"width="76" height="76">
+</center>
+</body>
+
+</html>
